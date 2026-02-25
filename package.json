@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "starknet": "^9.2.1",
-    "starkzap": "file:../starkzap"
+    "starkzap": "^1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-basic-ssl": "^2.1.4",

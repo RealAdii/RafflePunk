@@ -8,12 +8,7 @@
     "skipLibCheck": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
-    "baseUrl": ".",
-    "paths": {
-      "starkzap": ["../starkzap/src/index.ts"],
-      "@/*": ["../starkzap/src/*"]
-    }
+    "noEmit": true
   },
   "include": ["*.ts"]
 }
