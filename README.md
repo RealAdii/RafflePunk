@@ -1,8 +1,7 @@
 # RafflePunk
+<img width="1306" height="805" alt="Screenshot 2026-02-26 at 12 29 25 AM" src="https://github.com/user-attachments/assets/534e5ddb-c7b2-4ca8-8fcc-5b50380614c7" />
 
 On-chain raffle platform on Starknet, built with the [Starkzap SDK](https://github.com/keep-starknet-strange/starkzap).
-
-![RafflePunk Screenshot](./screenshot.png)
 
 ## What is this?
 
