@@ -1,0 +1,4 @@
+[sncast.sepolia]
+account = "starkraffle_deployer"
+url = "https://api.cartridge.gg/x/starknet/sepolia"
+accounts-file = "/Users/admin/.starknet_accounts/starknet_open_zeppelin_accounts.json"

@@ -1,0 +1,12 @@
+[package]
+name = "raffle"
+version = "0.1.0"
+edition = "2024_07"
+
+[dependencies]
+starknet = "2.9.1"
+openzeppelin_token = { git = "https://github.com/OpenZeppelin/cairo-contracts.git", tag = "v0.20.0" }
+
+[[target.starknet-contract]]
+sierra = true
+casm = true
