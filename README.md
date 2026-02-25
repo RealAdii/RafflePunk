@@ -3,6 +3,8 @@
 
 On-chain raffle platform on Starknet, built with the [Starkzap SDK](https://github.com/keep-starknet-strange/starkzap).
 
+**Live Demo:** [https://raffle-app-one.vercel.app](https://raffle-app-one.vercel.app)
+
 ## What is this?
 
 RafflePunk lets anyone create and participate in fully on-chain raffles on Starknet Sepolia. All raffle data — creation, ticket purchases, winner selection, and prize payouts — lives on a deployed Cairo smart contract. Wallet interactions are powered by the Starkzap SDK with Cartridge Controller for social login (Google, email, etc.).
