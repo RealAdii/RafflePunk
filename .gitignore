@@ -3,4 +3,4 @@ dist/
 .vite/
 *.local
 contract/target/
-package-lock.json
+.vercel
